@@ -1,4 +1,4 @@
 ![Nework Ave logo](logo/logo.png)
-[![Nework Ave Twitter](imgs/twitter.png =30x)](https://twitter.com/neworkave)
-[![Nework Ave Instagram](imgs/insta.png =30x)](https://instagram.com/neworkave)
-[![Nework Ave GitHub](imgs/github.png =30x)](https://github.com/nework-ave)
+<a href="https://twitter.com/neworkave"   title="Nework Ave Twitter"  ><img src="imgs/twitter.png" alt="Twitter logo"   /></a>
+<a href="https://instagram.com/neworkave" title="Nework Ave Instagram"><img src="imgs/insta.png"   alt="Instagram logo" /></a>
+<a href="https://github.com/nework-ave"   title="Nework Ave GitHub"   ><img src="imgs/github.png"  alt="GitHub logo"    /></a>
