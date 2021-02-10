@@ -1,0 +1,13 @@
+.body {
+
+}
+.logo {
+  text-align: center;
+}
+.socials {
+  text-align: center;
+}
+.socials .icon {
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
